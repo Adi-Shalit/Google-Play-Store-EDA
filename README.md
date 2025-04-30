@@ -1,4 +1,4 @@
-# 📱 Google Play Store EDA
+# 📊📈🔍 Google Play Store EDA
 
 The **Google Play Store** is one of the largest platforms for Android applications, offering millions of apps across categories like **Games**, **Productivity**, **Health**, and more. It serves as the primary distribution channel for Android developers to **publish**, **promote**, and **monetize** their applications to a global audience.
 
@@ -43,7 +43,7 @@ This analysis can help:
 
 ---
 
-## 📊 Insights Summary
+## 🧠 Insights Summary
 
 ### 1. Category Insights
 - **FAMILY** is the largest category (18.76%), highlighting strong demand for family-friendly apps.
@@ -83,7 +83,8 @@ This analysis can help:
 
 ---
 
-## 📎 Acknowledgments
+## 🌟 Acknowledgments
 
 The dataset was sourced through web scraping from the Google Play Store and made publicly available for educational purposes.
-
+The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/lava18/google-play-store-apps).
+Special thanks to the original data contributors who compiled and shared the Google Play Store data, enabling this analysis.
