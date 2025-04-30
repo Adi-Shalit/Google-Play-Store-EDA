@@ -38,7 +38,7 @@ This analysis can help:
 
 ## 🛠 Tools Used
 
-- Python (Pandas, Matplotlib, Seaborn, Plotly)
+- Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
 
 ---
