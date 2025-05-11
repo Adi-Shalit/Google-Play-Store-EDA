@@ -1,8 +1,8 @@
 # Google Play Store EDA
 
 The **Google Play Store** is one of the largest platforms for Android applications, offering millions of apps across categories like **Games**, **Productivity**, **Health**, and more. It serves as the primary distribution channel for Android developers to **publish**, **promote**, and **monetize** their applications to a global audience.
-
 This dataset provides detailed information about a wide range of apps available on the store.
+
 ---
 
 ## Project Objective
