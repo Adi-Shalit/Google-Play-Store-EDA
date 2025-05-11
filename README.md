@@ -2,19 +2,14 @@
 
 The **Google Play Store** is one of the largest platforms for Android applications, offering millions of apps across categories like **Games**, **Productivity**, **Health**, and more. It serves as the primary distribution channel for Android developers to **publish**, **promote**, and **monetize** their applications to a global audience.
 
-This dataset provides detailed information about a wide range of apps available on the store. Each row represents a unique app and includes attributes such as:
-
-- App name  
-- Category  
-- Rating  
-- Number of reviews  
-...and more.
-
+This dataset provides detailed information about a wide range of apps available on the store.
 ---
 
 ## Project Objective
 
 The purpose of this project is to perform **Exploratory Data Analysis (EDA)** on the dataset in order to uncover patterns and insights about app performance and trends.
+
+This EDA includes **data loading and cleaning, data transformation, outlier treatment, visual analysis and insights and conclusion**.
 
 This analysis can help:
 
