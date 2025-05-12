@@ -31,6 +31,8 @@ This analysis can help:
 
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
+- **Python**: `Pandas`, `Matplotlib`, `Seaborn`
+- **Jupyter Notebook**: Used for Python analysis
 
 ---
 
