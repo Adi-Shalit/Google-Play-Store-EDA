@@ -29,8 +29,6 @@ This analysis can help:
 
 ## Tools Used
 
-- Python (Pandas, Matplotlib, Seaborn)
-- Jupyter Notebook
 - **Python**: `Pandas`, `Matplotlib`, `Seaborn`
 - **Jupyter Notebook**: Used for Python analysis
 
