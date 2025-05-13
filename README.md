@@ -9,7 +9,7 @@ This dataset provides detailed information about a wide range of apps available 
 
 The purpose of this project is to perform **Exploratory Data Analysis (EDA)** on the dataset in order to uncover patterns and insights about app performance and trends.
 
-This EDA includes **data loading and cleaning, data transformation, outlier treatment, visual analysis and insights and conclusion**.
+This EDA project includes **data loading and cleaning, data transformation, outlier and duplicates treatment, visual analysis, insights and conclusion**.
 
 This analysis can help:
 
